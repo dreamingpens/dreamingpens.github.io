@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dreamingpens.github.io/sitemap.xml
+Sitemap: https://dreamingpens.github.io/al-folio/sitemap.xml
